@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Git | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/git/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-12-21T17:16:55+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://mvcn.github.io/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://mvcn.github.io/"/>
+  <updated>2015-12-21T17:42:32+08:00</updated>
+  <id>http://mvcn.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[我的博客]]></title>
-    <link href="http://yoursite.com/blog/2015/12/21/myblog/"/>
+    <link href="http://mvcn.github.io/blog/2015/12/21/myblog/"/>
     <updated>2015-12-21T12:54:26+08:00</updated>
-    <id>http://yoursite.com/blog/2015/12/21/myblog</id>
+    <id>http://mvcn.github.io/blog/2015/12/21/myblog</id>
     <content type="html"><![CDATA[<p><strong>加粗</strong></p>
 
 <ul>
